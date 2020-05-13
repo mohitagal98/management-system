@@ -1,0 +1,7 @@
+code = 0 = Authentication Failed!
+code = 1 = SignUp Failed
+code = 2 = SignUp Successful
+code = 3 = Account Not Blocked
+code = 4 = Account Blocked
+code = 5 = Account Not Approved
+code = 6 = Account Approved

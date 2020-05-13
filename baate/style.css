@@ -1,0 +1,36 @@
+.container {
+    position: absolute;
+    width: 400px;
+    height: 730px;
+    z-index: 15;
+    top: 15%;
+    left: 50%;
+    margin: -100px 0 0 -150px;
+    border: 5px solid black;
+    padding: 5px;
+    border-radius: 6px;
+}
+
+.chat{
+    height: 450px;
+    margin: 2px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+.chat-show{
+    margin: 6px;
+}
+/*input[type='text']{
+    padding: 5px;
+    margin: 8px;
+}*/
+textarea{
+    padding: 5px;
+    margin: 8px;
+}
+input[type='submit']:hover{
+    cursor: pointer;
+}
+.chat::-webkit-scrollbar {
+    display: none;
+}

@@ -1,0 +1,31 @@
+a.logo{
+    color: #000000;
+}
+a.logo:hover{
+    text-decoration: none;
+}
+.heading{
+    padding: 10px;
+}
+.gap{
+    padding :10px;
+}
+.gap-2{
+    padding :20px;
+}
+.card-container{
+    width: 500px;;
+}
+.card-container-signup{
+    width: 500px;
+}
+.scrollable{
+    height: 500px;
+    overflow: scroll;
+}
+.scrollable::-webkit-scrollbar{
+    display: none;
+}
+.gap-200{
+    padding-top: 200px;
+}
